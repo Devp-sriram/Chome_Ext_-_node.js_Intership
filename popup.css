@@ -26,6 +26,8 @@ p {
 
 p {
   padding: 0.25rem;
+  margin :10px;
+  border : 2px solid black 
 }
 
 p {
